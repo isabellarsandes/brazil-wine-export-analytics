@@ -26,16 +26,20 @@ The main objectives of this project are:
 
 ## Dataset
 
-The dataset used in this project comes from:
+The dataset used in this project comes from the **Embrapa Vitibrasil database**, which provides historical data about the Brazilian wine industry.
 
-**Embrapa – Vitibrasil**
+Source:  
+http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01
 
-The dataset contains information such as:
+The database contains information related to:
 
-- Export volume (liters)
-- Export value (USD)
-- Destination countries
-- Export year
+- Wine production
+- Wine processing
+- Domestic commercialization
+- Imports
+- Exports
+
+For this project, the analysis focuses specifically on **Brazilian wine export data**.
 
 ---
 
